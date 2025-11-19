@@ -4,29 +4,30 @@
 
 ## #01. 당신의 관심사를 표현하는 문장을 다섯개 이상 서술하세요.
 
-1. ...VR/AR 산업의 세부 산업분류(콘텐츠·장비SW 등)에 따라 매출액에 유의미한 차이가 존재하는가?
-2. ...기술도입 수준(AR vs VR, 상호작용성, 몰입감 등)이 산업군별 매출액(합계·평균)에 어떤 영향을 미치는가?
-3. ...산업 성장률, 시장 규모, 기업 수 등 산업 구조적 요인이 VR/AR 산업 매출에 영향을 주는가?
-4. ....문화 콘텐츠·산업용 콘텐츠·기기 제조·SW 개발 등 유형별 산업 구조 변화가 매출에 미치는 차별적 효과는 무엇인가?
-5. ...VR/AR 기술의 특성(몰입도, 상호작용성, 실재감)이 소비자 행동 및 기업 매출성과로 이어지는 메커니즘이 존재하는가?
+1. ...산업특성이 VR/AR 산업 매출액에 미치는 영향
+2. ...기업 특성이 VR/AR산업의 매출액에 미치는 영향
+3. ...VR/AR 산업분류에 따른 기업 인력의 수치적 차이
+4. ....산업분류별 VR/AR 산업 빈도수의 차이
+5. ...세부업종별 VR/AR 수출액 차이
 
 ## #02. 관심사와 관련된 참고자료를 최대한 많이 조사하세요.
 
 ### 자료제목
 
-- 저자,발행년도 :virtual Reality in Marketing: A Framework, Review and Research Agenda
-- 출처 : Frontiers in Psychology
+
+가상·증강현실(VR/AR) 산업 동향
+
+- 저자,발행년도 :[장영찬 ](https://www.dbpia.co.kr/author/authorDetail?ancId=742586764)(**정보통신기획평가원**)[임종석 ](https://www.dbpia.co.kr/author/authorDetail?ancId=482155352)(**정보통신기획평가원**)[김재현 ](https://www.dbpia.co.kr/author/authorDetail?ancId=327037819)(**정보통신기획평가원**), 2018.12
+- 출처 :
 - 주요내용 :
-  (1)XR 기술 유형(VR·AR), 몰입감, 상호작용성이 소비자 참여·구매의도·전환율에 미치는 영향 체계화
-  (2)산업별 매출 이해에 필요한 핵심 변수(기술 도입 수준, 상호작용성, 체험요인)를 제시
 
-자료제목 Exploring the Impact of AR and VR on Enhancing Customer Experiences and Driving Sales in Retail
+자료제목
 
-* 저자,발행년도:Mbonigaba et al., 2024
-* 출처:Academia.edu / Zenodo
+The Impact of AR/VR Adoption on Firm Performance
+
+* 저자,발행년도:
+* 출처:Journal of Business Research (JBR), 2022
 * 주요내용:
-  (1)AR/VR 적용 매장의 전환율 20% 증가, 반품률 25% 감소 등 실증적 수치 제시
-  (2)XR 기술 활용도가 매출에 직접적 영향을 미침
 
 ## #03. 자신의 최종 분석 주제를 한 문장으로 표현하세요.
 
